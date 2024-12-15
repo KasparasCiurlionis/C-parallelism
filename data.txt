@@ -1,0 +1,20 @@
+1x
+Load time: 0.72
+Calc time: 2.67
+alpha: 0.21
+beta: 0.79
+2x
+Load time: 1.23
+Calc time: 8.92
+alpha: 0.12
+beta: 0.88
+3x
+Load time: 2.21
+Calc time: 23.29
+alpha: 0.09
+beta: 0.91
+4x
+Load time: 2.89
+Calc time: 41.52
+alpha: 0.07
+beta: 0.93
